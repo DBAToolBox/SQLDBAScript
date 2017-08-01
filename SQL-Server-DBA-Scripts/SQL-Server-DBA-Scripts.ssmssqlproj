@@ -1,0 +1,381 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL-Server-DBA-Scripts">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Certificate info.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Certificate info.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Check Mail Sending.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Check Mail Sending.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Collect SQL Server latest event log records.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Collect SQL Server latest event log records.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Count SP executions.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Count SP executions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Currently running sessions.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Currently running sessions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Deadlock details.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Deadlock details.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Details about SPIDs.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Details about SPIDs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="GenerateDeadLock1.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>GenerateDeadLock1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Identify Column Type Mismatch.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Identify Column Type Mismatch.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Identify plan Cache Polution.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Identify plan Cache Polution.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Index usage by SPs.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Index usage by SPs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Index usage stats.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Index usage stats.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Indexes Causing Latency when Used.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Indexes Causing Latency when Used.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Instance Info.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Instance Info.sql</FullPath>
+        </FileNode>
+        <FileNode Name="IO-Latency.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>IO-Latency.sql</FullPath>
+        </FileNode>
+        <FileNode Name="IO-stats.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>IO-stats.sql</FullPath>
+        </FileNode>
+        <FileNode Name="IO-Wait_stats.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>IO-Wait_stats.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Jobs execution history.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Jobs execution history.sql</FullPath>
+        </FileNode>
+        <FileNode Name="List All FK constraints 2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>List All FK constraints 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="List All FK Constraints.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>List All FK Constraints.sql</FullPath>
+        </FileNode>
+        <FileNode Name="List Biggest tables.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>List Biggest tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="List DB Users with their roles.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>List DB Users with their roles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="List Functions modify date.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>List Functions modify date.sql</FullPath>
+        </FileNode>
+        <FileNode Name="List Server Logins.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>List Server Logins.sql</FullPath>
+        </FileNode>
+        <FileNode Name="List SPs modify date.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>List SPs modify date.sql</FullPath>
+        </FileNode>
+        <FileNode Name="List Tables modify date.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>List Tables modify date.sql</FullPath>
+        </FileNode>
+        <FileNode Name="List Views modify date.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>List Views modify date.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Logically Fragmented Indexes fast.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Logically Fragmented Indexes fast.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Logically Fragmented Indexes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Logically Fragmented Indexes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Lowest Plan Reuse Queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Lowest Plan Reuse Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Missing Index Count per DB.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Missing Index Count per DB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Missing Indexes Causing Latency.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Missing Indexes Causing Latency.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Most Costly by Cost.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Most Costly by Cost.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Most Costly CPU Queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Most Costly CPU Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Most Costly IO Queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Most Costly IO Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Most Frequenty Executed Queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Most Frequenty Executed Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Most Often Blocked Queries.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Most Often Blocked Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Most Used Indexes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Most Used Indexes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="RealTime - Collect Wait Stats - 30 sec.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>RealTime - Collect Wait Stats - 30 sec.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Show database restore date.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Show database restore date.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Show Parallel Plans.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Show Parallel Plans.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP CPU utilization.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SP CPU utilization.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP Execution Count.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SP Execution Count.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP IO utilization.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SP IO utilization.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP Last Time executed 2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SP Last Time executed 2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP Last Time executed.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SP Last Time executed.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP Modification Time.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SP Modification Time.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP Time elapsed.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SP Time elapsed.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP with certain keyword.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SP with certain keyword.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP with certain keyword2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SP with certain keyword2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Statistics1.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Statistics1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Statistics2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Statistics2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Tables that are not in use.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Tables that are not in use.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TempDB usage.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>TempDB usage.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Text Search in the Procedures v1.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Text Search in the Procedures v1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Text Search in the Procedures v2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Text Search in the Procedures v2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Text Search in the Procedures.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Text Search in the Procedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Total Reads and Writes by DB.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Total Reads and Writes by DB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Unused Indexes Causing Latency.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Unused Indexes Causing Latency.sql</FullPath>
+        </FileNode>
+        <FileNode Name="WhoIsActive.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>WhoIsActive.sql</FullPath>
+        </FileNode>
+        <FileNode Name="WhoIsActive_2.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>WhoIsActive_2.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
