@@ -3,12 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # SQL Server Management Studio Solution File, Format Version 11.00
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL-Server-DBA-Scripts", "SQL-Server-DBA-Scripts\SQL-Server-DBA-Scripts.ssmssqlproj", "{16ADB588-75A7-4DFD-8351-9FA1E95312B2}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Replication-Scripts", "Replication-Scripts\Replication-Scripts.ssmssqlproj", "{75D854E7-4E6C-45C0-A140-79AFDF3958DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{16ADB588-75A7-4DFD-8351-9FA1E95312B2}.Default|Default.ActiveCfg = Default
+		{34C0520D-B591-4661-8300-31027BE7E59A}.Default|Default.ActiveCfg = Default
+		{75D854E7-4E6C-45C0-A140-79AFDF3958DC}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
