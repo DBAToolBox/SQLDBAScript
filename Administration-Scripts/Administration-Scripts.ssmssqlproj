@@ -318,6 +318,12 @@
           <AssociatedConnUserName />
           <FullPath>Statistics2.sql</FullPath>
         </FileNode>
+        <FileNode Name="Table usage statistics.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Table usage statistics.sql</FullPath>
+        </FileNode>
         <FileNode Name="Tables that are not in use.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
